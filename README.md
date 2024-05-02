@@ -74,6 +74,28 @@ Fortunately, a large marketplace now exists for tools in support of data governa
 With the introduction of data governance and the ongoing, sometimes evolving, requirements, high-quality communications are key. This takes many forms, including in-person meetings, emails, newsletters, and workshops. 
 
 
+# Preparing for Data Governance
+
+In order to implement data governance you first need to prepare the organization to be ready to accept it.
+
+Being ready as an organization involves determining the extent to which a data culture exists. Intuitively you can conclude that an immature, reactive data culture, where data is simply handled in an ad hoc manner, is an entirely different experience than a sophisticated data-driven culture.
+
+# Maturing Data Culture
+
+The following basic checklist of items will help you determine the data governance readiness of your organization:
+
+- The basis of a data culture exists.
+- The program is 100 percent aligned with business strategy.
+- Senior leadership is 100 percent committed to the program and its goals.
+- Senior leadership understands this is a strategic, enterprise program and not the sole responsibility of the IT department.
+- One or more sponsors have been identified at an executive level.
+- The program has the commitment to fund its creation and to maintain it in the long term.
+- The organization understands this is an ongoing program and not a one-off project.
+- You have documented the return-on-investment (ROI).
+- Legal and compliance teams (internally or externally) understand and support the goals of the program.
+- Fundamental data skills exist for the data governance journey.
+- The IT organization is capable and resourced to support the program.
+
 
 
 
