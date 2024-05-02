@@ -57,8 +57,21 @@ Data plays an important role in an organizations strategy, including risk manage
 To allow for a data governance program to success almost all members of the organization has to be responsible for something.
 Every data governance framework includes the identification and assignment of specific roles and responsibilities.
 
-# 
+# Policies, Processes, and Standards
 
+Policies, processes, and standards must include accountability and enforcement components; otherwise it’s possible they will be dead on arrival.
+
+# Metrics
+
+The data governance program must have a way of measuring the performance to identify when it is delivering the intended results.Capturing metrics and delivering them to a variety of stakeholders is important for maintaining support, which includes funding.
+
+# Tools
+
+Fortunately, a large marketplace now exists for tools in support of data governance and management. These include tools for master data management, data catalogs, search, security, integration, analytics, and compliance.
+
+# Communications and Collaboration
+
+With the introduction of data governance and the ongoing, sometimes evolving, requirements, high-quality communications are key. This takes many forms, including in-person meetings, emails, newsletters, and workshops. 
 
 
 
