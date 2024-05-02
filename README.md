@@ -96,7 +96,15 @@ The following basic checklist of items will help you determine the data governan
 - Fundamental data skills exist for the data governance journey.
 - The IT organization is capable and resourced to support the program.
 
+# Chapter 2:Exploring a world with overflowing data
 
+# Defining Data
+
+Data is also defined based on its captured format. Specifically, at a high level, it falls into one of the following categories:
+
+Structured: Data that has been formatted to a set structure; each data unit fits nicely into a table in a database. It’s ready for analysis. Examples include first name, last name, and phone number.
+Unstructured: Data that are stored in a native format must be processed to be used. Further work is required to enable analysis. Examples include email content and social media posts.
+Semi-structured: Data that contains additional information to enable the native format to be searched and analyzed.
 
 
 
