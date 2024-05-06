@@ -142,18 +142,44 @@ Deciding on a restaurant based on reviews is an example of data-driven decision-
 
 Deciding to enter a new market with an existing product or service requires a deep understanding that can come from rich sets of data. If the data exists and you have the tools to process and interpret it, you may be well-positioned to make the right decision. It may also be easier to decide because you’re able to get the answers to your concerns. Conversely, without good data and the skills and tools to analyze it, a bad and costly decision may result. This happens far too often.
 
+# Data Ownership
 
+Data ownership describes the rights a person, team, or organization has over one or more data sets. 
 
+Data Architecture
 
+When designing the technical needs of an organization to support its business strategy, this practice is known as enterprise architecture (EA).
 
+Data architecture is the manner in which data design and management decisions are being made to align with EA and in turn, with the business. Simply stated, data architecture is the agreed blueprint for how data supports an organization’s functions and technologies.
 
+# The Lifecycle of Data
 
+![image](https://github.com/Darkinsator/Data-Governance/assets/112648301/76a39ab9-7d72-46e3-8032-fdd2e04481bd)
 
+- Creation is the step where data comes into BEING!
 
+- Storage is used to store the created data for later use.
 
+- Usage is the step where you actually do something with your precious data
 
+- Archival is the stage in which data, which is not being used, is moved to a long term storage system for the future!
 
+- Destruction of data makes sense if it comes to a point where the data is not needed anymore, or is required by a regulation or policy. Data destruction involves making data inaccessible and unreadable. It can include the physical destruction of a device such as a hard drive. DECODE DESTRUCTION!
 
+# Defining Big Data
+One way to define and characterize big data is through these five Vs:
+
+- Volume: The sheer scale of data being produced is unprecedented and requires new tools, skills, and processes.
+- Variety: There are already a lot of legacy file formats, such as CSV and MP3, and with new innovations, new formats are emerging all the time. This requires different methods of handling, from analysis to security.
+- Velocity: With so many collection points, digital interfaces, and ubiquitous connectivity, data is being created and moved at increasing speed. Consider that in 2021, Instagram users created, uploaded, and share 65,000 pictures a minute.
+- Variability:  The fact that the creation and flow of data are unpredictable.
+- Veracity:  The quality, including accuracy and truthfulness, of large volume of disparate sets of data, can differ considerably, causing challenges to data management.
+
+# Enter the Realm of Smart Data
+
+Smart data has emerged as a new term that defines big data that’s been optimally prepared for use to deliver the highest business value. Instead of being overwhelmed by the distractions inherent to the volume, velocity, and variety of data in big data sets, processes are applied to big data to prepare it for specific uses. For example, marketing teams can target potential customers with precision. Analytics applications can use high-quality real-time data generated in a manufacturing setting.
+
+Smart data uses new processes and tools to make the data most useful. For example, the increasing use of artificial intelligence (AI) is now being applied to find patterns in unstructured big data and extract the data that is most relevant for a given application. Using new methods such as AI reduces time, lowers errors, and enables the creation of data subsets that may not have been previously possible. In addition, smart data solutions are often applied at the point of collection rather than a post-processing solution.
 
 
 
