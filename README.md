@@ -181,7 +181,24 @@ Smart data has emerged as a new term that defines big data that’s been optimal
 
 Smart data uses new processes and tools to make the data most useful. For example, the increasing use of artificial intelligence (AI) is now being applied to find patterns in unstructured big data and extract the data that is most relevant for a given application. Using new methods such as AI reduces time, lowers errors, and enables the creation of data subsets that may not have been previously possible. In addition, smart data solutions are often applied at the point of collection rather than a post-processing solution.
 
+# Chapter 3:
 
+# Identify the roles of data
+
+Operations:
+Strategy:
+Decision-Making:
+Measuring:
+Monitoring:
+Insight Management:
+Reporting:
+Other Roles for Data:
+
+# Improving Outcomes with Data
+
+After identifying and discussing the various roles that data may play, it's helpful to know how to use data to get the most value possible. Realizing that data is an organizational asset is the first step. This merely indicates that the item adds financial value to the company. When brought up, this is easy to observe, yet many team members still do not view data in this manner. When data is viewed as an asset, particularly a high-value asset, it is frequently handled differently...
+
+# Approaching Data as an Asset
 
 
 
