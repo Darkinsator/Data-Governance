@@ -200,10 +200,32 @@ After identifying and discussing the various roles that data may play, it's help
 
 # Approaching Data as an Asset
 
+You’ve seen that data has value and you’re ready to take steps to manage it that way. Just like assets on the balance sheet, you need to know what you have and where it is, as well as have an expression of its value. It may not be a dollar amount, but you can probably measure it in terms of how essential it is to the success of the business. By the way, if data has no value, seriously consider whether you should be managing it.
 
+# Data Analytics
 
+Raw data is useless by itself. In order to make sense of data one needs to put procedures and processes in place. The process of examining data in order to make sense of it and to convert it into information is called data analytics.
 
+![image](https://github.com/Darkinsator/Data-Governance/assets/112648301/a492f487-cc86-4bc4-b26f-503ed78ac128)
 
+Data analytics has four primary types.
+
+Descriptive:  Existing data sets of historical data are accessed, and analysis is performed to determine what the data tells stakeholders about the performance of a key performance indicator (KPI) or other business objectives. It is insight on past performance.
+Diagnostic:  As the term suggests, this analysis tries to glean from the data the answer to why something happened. It takes descriptive analysis and looks at the cause.
+Predictive:  In this approach, the analyst uses techniques to determine what may occur in the future. It applies tools and techniques to historical data and trends to predict the likelihood of certain outcomes.
+Prescriptive:  This analysis focuses on what action should be taken. In combination with predictive analytics, prescriptive techniques provide estimates of the probabilities of a variety of future outcomes.
+
+![image](https://github.com/Darkinsator/Data-Governance/assets/112648301/8ba25bad-a529-4515-ac5a-99163cd46a14)
+The relative complexity and business value of four types of analytics
+
+# Data Managment
+
+Governing Data
+Governing data means that some level of control exists to support a related policy. For example, an organization may decide that to reduce risk, there needs to be a policy that requires data to be backed up every day. The control would be the documentation of the process and enforcement of that policy. If, in the review of policy adherence, data wasn’t getting backed up, then you’d quickly know that governance, for whatever reason, was not working.
+
+# Chapter 4: Transforming through data
+
+Examining the Broader Value of Data
 
 
 
