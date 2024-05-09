@@ -227,6 +227,41 @@ Governing data means that some level of control exists to support a related poli
 
 Examining the Broader Value of Data
 
+Knowing what data is available is essential for the following reasons:
+
+- Better informed decision-making.
+- Ensuring compliance and regulatory requirements.
+- Lower costs by avoiding duplicate system and data efforts.
+- Improved data analytics and reporting.
+- Higher performing systems.
+- More efficient operations.
+- Reducing data inconsistencies across the enterprise.
+
+
+# Data Catalogs
+
+A data catalog lists the availability of data sets and includes a wide range of valuable details about that data.
+
+The three essential benefits of data catalogs are:
+
+- Finding data: Helps users identify and locate data that may be useful.
+- Understanding data:  Answers a wide variety of data questions such as its purpose and who uses it.
+- Making data more useful:  Creates visibility, describes value, and provides access to information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
